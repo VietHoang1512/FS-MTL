@@ -1,5 +1,5 @@
 # Beyond Losses Reweighting: Empowering Multi-Task Learning via the Generalization Perspective
-This repository contains the Pytorch implementation of [Beyond Losses Reweighting: Empowering Multi-Task Learning via the Generalization Perspective]([https://arxiv.org/abs/2203.00553](https://arxiv.org/abs/2211.13723)). 
+This repository contains the Pytorch implementation of [Beyond Losses Reweighting: Empowering Multi-Task Learning via the Generalization Perspective](https://arxiv.org/abs/2211.13723). 
 
 BibTeX
 
